@@ -1,0 +1,6 @@
+DermNet & unseen_auroc & unseen_aupr & unseen_fpr & adv_auroc & adv_aupr & adv_fpr & source_auroc & source_aupr & source_fpr & normal_auroc & normal_aupr & normal_fpr
+Ours & 76.1 & 75.33 & 78.51 & 87.42 & 85.52 & 66.22 & 87.17 & 88.56 & 64.4
+Softmax & 75.94 & 75.4 & 78.27 & 83.11 & 81.85 & 82.38 & 86.4 & 87.92 & 66.4
+G-ODIN & 71.31 & 70.86 & 86.59 & 87.12 & 85.17 & 65.51 & 88.37 & 89.32 & 62.07
+MAH & 72.28 & 72.83 & 83.2 & 86.62 & 84.73 & 67.6 & 87.3 & 88.25 & 65.4
+

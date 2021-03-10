@@ -1,0 +1,29 @@
+softmax
+chestx_unseen_0
+66.05 & 32.26 & 86.3
+chestx_normal_0
+68.22 & 34.33 & 86.0
+chestx_val_0_adv_0.15
+44.69 & 61.86 & 100.0
+0_imagenet_resize_ood
+32.12 & 17.36 & 96.33
+
+Approach 4
+chestx_unseen_0
+65.1 & 29.5 & 90.8
+chestx_normal_0
+67.16 & 32.86 & 89.8
+chestx_val_0_adv_0.15
+49.36 & 65.04 & 100.0
+0_imagenet_resize_ood
+31.63 & 6.51 & 97.0
+
+Approach 2
+chestx_unseen_0
+45.12 & 13.27 & 97.4
+chestx_normal_0
+47.7 & 14.63 & 98.2
+chestx_val_0_adv_0.15
+100.0 & 100.0 & 0.0
+0_imagenet_resize_ood
+70.89 & 18.51 & 78.07
